@@ -1,0 +1,6 @@
+Need to revise bolts one Y mount
+Need to figure out X and Y belt drive mechanism 
+https://grabcad.com/library/linear-motion-guide-1 
+look at this ^
+
+Work on inserts for bearing and motor holders when we get linear extrusions, as the measurements are dubious.
